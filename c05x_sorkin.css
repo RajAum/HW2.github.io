@@ -1,0 +1,51 @@
+html {
+    background-color: yellow;
+}
+body {
+                width: 650px;
+                margin: auto;
+                border-style: double;
+                border-color: blue;
+                border-width: 10px;
+                background-color: white;
+                margin-bottom: 30px;
+
+}
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+
+
+main{
+    padding: 1.1em;
+}
+
+footer {
+    border-top-style: solid;
+    text-align: center;
+    margin-left: 25;
+    margin-right: 25;
+    margin: 1em;
+    font-size: 90%;
+    font-weight: bold;    
+}
+h1 {
+    font-size: 150%;
+    color: blue;
+}
+h2 {
+    front-size: 125%;
+    margin-bottom: 0.5em;
+}
+h3 {
+    font-size: 115%;
+}
+.cite {
+    text-align: right;
+    color: blue;
+}
+
+p {
+    padding-top: 0.5em;
+}
